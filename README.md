@@ -42,4 +42,4 @@ This repository is consistent with scientific transparency and reproducibility.
 
 #**Contact**
 
-For questions or feedback, please open an issue on GitHub.
+For questions or feedback.
