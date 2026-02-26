@@ -22,11 +22,11 @@ These will be developed after discussing the tentative project topic with the pr
 
 #**Repository structure**
 
-├── dataset/           # Datasets for analysis
-├── literature/        # Literature review materials
-├── codes/      		   # R codes used for analysis
-├── data analysis/     # Materials and data analysis procedures
-└── README.md			     # This file
+├── dataset/               # Datasets for analysis
+├── literature/            # Literature review materials
+├── codes/      		       # R codes used for analysis
+├── data analysis/         # Materials and data analysis procedures
+└── README.md			         # This file
 
 
 #**Transparency plan:**
