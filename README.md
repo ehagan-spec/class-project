@@ -24,8 +24,9 @@ These will be developed after discussing the tentative project topic with the pr
 
 ├── dataset/           # Datasets for analysis
 ├── literature/        # Literature review materials
-├── codes/      		 # R codes used for analysis
-└── README.md			 # This file
+├── codes/      		   # R codes used for analysis
+├── data analysis/     # Materials and data analysis procedures
+└── README.md			     # This file
 
 
 #**Transparency plan:**
@@ -33,7 +34,7 @@ These will be developed after discussing the tentative project topic with the pr
 This repository is consistent with scientific transparency and reproducibility.
 
 1. Open Science Framework (OSF): Integrates GitHub to enhance transparency and collaboration
-2. Complete Documentation: Every step of the analysis is documented. Hypothesis and assumptions are clearly stated, and the rationale for choice of methodology is provided
+2. Complete Documentation: Every step of the analysis is documented. Hypothesis and assumptions are clearly stated, and the rationale for the choice of methodology is provided
 3. Version Control: All changes are tracked through Git
 4. Data Transparency: Data sources are clearly cited, and data analysis steps are well described
 
@@ -42,4 +43,4 @@ This repository is consistent with scientific transparency and reproducibility.
 
 #**Contact**
 
-For questions or feedback.
+Send questions or feedback using an issue.
