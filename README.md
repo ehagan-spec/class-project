@@ -38,16 +38,11 @@ Country fixed effects are captured through a set of 29 binary dummy variables, o
 
 ├── data/                    # Dataset for the project
 │   └── 36403-0001-Data.rda  # Eurobarometer 83.4 raw data
-│
 ├── codebook/                # Variable documentation
 │   └── 36403-0001-Codebook.pdf  # ICPSR codebook
-│
 ├── scripts/                 # R scripts
-│
 ├── plots/                   # R generated plots
-│
 ├── outputs/                 # R model outputs
-│
 ├── README.md                # Project overview and instructions
 └── AI-DISCLAIMER.md         # AI tool usage
 
@@ -62,7 +57,8 @@ This repository is consistent with scientific transparency and reproducibility.
 4. Data Transparency: Data sources are clearly cited, and data analysis steps are well described
 5. Data reproducibility: All codes needed to reproduce this project are included with instructions on how to run the codes.
 
-AI tool usage
+**AI tool usage**
+
 AI was used to help generate some of the R codes.
 
 #**Contact**
