@@ -36,15 +36,21 @@ Country fixed effects are captured through a set of 29 binary dummy variables, o
 
 #**Repository structure**
 
-├── data/                    # Dataset for the project
-│   └── 36403-0001-Data.rda  # Eurobarometer 83.4 raw data
-├── codebook/                # Variable documentation
+├── data/                         # Dataset for the project
+│   └── 36403-0001-Data.rda      # Eurobarometer 83.4 raw data
+│
+├── codebook/                    # Variable documentation
 │   └── 36403-0001-Codebook.pdf  # ICPSR codebook
-├── scripts/                 # R scripts
-├── plots/                   # R generated plots
-├── outputs/                 # R model outputs
-├── README.md                # Project overview and instructions
-└── AI-DISCLAIMER.md         # AI tool usage
+│
+├── scripts/                     # R scripts
+│
+├── plots/                       # R generated plots
+│
+├── outputs/                     # R model outputs
+│
+├── README.md                    # Project overview and instructions
+│
+└── AI-DISCLAIMER                # AI tool usage
 
 
 #**Transparency plan:**
