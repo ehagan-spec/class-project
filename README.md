@@ -35,7 +35,7 @@ Country fixed effects are captured through a set of 29 binary dummy variables, o
 
 
 #**Repository structure**
-
+```text
 ├── data/                         # Dataset for the project
 │   └── 36403-0001-Data.rda      # Eurobarometer 83.4 raw data
 │
@@ -50,7 +50,8 @@ Country fixed effects are captured through a set of 29 binary dummy variables, o
 │
 ├── README.md                    # Project overview and instructions
 │
-└── AI-DISCLAIMER                # AI tool usage
+└── AI-DISCLAIMER.md             # AI tool usage
+```
 
 
 #**Transparency plan:**
